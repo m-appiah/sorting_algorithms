@@ -1,11 +1,11 @@
 #include "sort.h"
 
 /**
- * lomuto_partition - Partitions an array using the Lomuto partition scheme.
- * @array: The array to be partitioned.
- * @low: The index of the low element.
- * @high: The index of the high element.
- * @size: The size of the array.
+ * lomuto_partition - Partitions an array using the Lomuto
+ * @array: array to be partitioned
+ * @low: index of the low element
+ * @high: index of the high element.
+ * @size: size of the array.
  *
  * Return: The index of the pivot element.
  */
