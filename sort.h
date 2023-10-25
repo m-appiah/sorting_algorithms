@@ -28,5 +28,6 @@ void shell_sort(int *array, size_t size);
 void merge_sort(int *array, size_t size);
 void merge_arrays(int *left, size_t left_size, int *right, size_t right_size, int *merged);
 void print_merged(int *left, size_t left_size, int *right, size_t right_size);
+void heap_sort(int *array, size_t size);
 
 #endif
