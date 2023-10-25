@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * sift_down - function to sift-down operation on the heap
+ * sift_down - function to sift-down operation on the heap using heapsort
  * @array: array to be sorted as a binary heap
  * @size: size of the heap
  * @start: root/parent of the heap subtree
